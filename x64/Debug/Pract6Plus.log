@@ -1,0 +1,94 @@
+﻿  Pract6Plus.cpp
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(17,12): error C2065: Genre: необъявленный идентификатор
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(17,5): error C2923: std::vector: "Genre" не является допустимым аргументом типа шаблон для параметра "_Ty"
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(17,12): message : см. объявление "Genre"
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(17,5): error C2976: std::vector: слишком мало аргументов шаблон
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(438,1): message : см. объявление "std::vector"
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(17,25): error C2514: "std::vector": невозможно создать шаблон класса.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(438,1): message : см. объявление "std::vector"
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(18,12): error C2065: Audience: необъявленный идентификатор
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(18,5): error C2923: std::vector: "Audience" не является допустимым аргументом типа шаблон для параметра "_Ty"
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(18,12): message : см. объявление "Audience"
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(18,5): error C2976: std::vector: слишком мало аргументов шаблон
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(438,1): message : см. объявление "std::vector"
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(18,31): error C2514: "std::vector": невозможно создать шаблон класса.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(438,1): message : см. объявление "std::vector"
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(19,12): error C2065: Actor: необъявленный идентификатор
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(19,5): error C2923: std::vector: "Actor" не является допустимым аргументом типа шаблон для параметра "_Ty"
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(19,12): message : см. объявление "Actor"
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(19,5): error C2976: std::vector: слишком мало аргументов шаблон
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(438,1): message : см. объявление "std::vector"
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(19,25): error C2514: "std::vector": невозможно создать шаблон класса.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(438,1): message : см. объявление "std::vector"
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(21,12): error C2065: Book: необъявленный идентификатор
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(21,5): error C2923: std::vector: "Book" не является допустимым аргументом типа шаблон для параметра "_Ty"
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(21,12): message : см. объявление "Book"
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(21,5): error C2976: std::vector: слишком мало аргументов шаблон
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(438,1): message : см. объявление "std::vector"
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(21,23): error C2514: "std::vector": невозможно создать шаблон класса.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(438,1): message : см. объявление "std::vector"
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(23,5): error C2065: Genre: необъявленный идентификатор
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(23,11): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "genre1"
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(23,11): error C2065: genre1: необъявленный идентификатор
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(24,5): error C2065: Genre: необъявленный идентификатор
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(24,11): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "genre2"
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(24,11): error C2065: genre2: необъявленный идентификатор
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(25,5): error C2065: Genre: необъявленный идентификатор
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(25,11): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "genre3"
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(25,11): error C2065: genre3: необъявленный идентификатор
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(26,5): error C2065: Genre: необъявленный идентификатор
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(26,11): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "genre4"
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(26,11): error C2065: genre4: необъявленный идентификатор
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(27,5): error C2065: Genre: необъявленный идентификатор
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(27,11): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "genre5"
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(27,11): error C2065: genre5: необъявленный идентификатор
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(28,5): error C2065: Genre: необъявленный идентификатор
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(28,11): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "genre6"
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(28,11): error C2065: genre6: необъявленный идентификатор
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(29,5): error C2065: Genre: необъявленный идентификатор
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(29,11): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "genre7"
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(29,11): error C2065: genre7: необъявленный идентификатор
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(30,5): error C2065: Genre: необъявленный идентификатор
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(30,11): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "genre8"
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(30,11): error C2065: genre8: необъявленный идентификатор
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(31,5): error C2065: Genre: необъявленный идентификатор
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(31,11): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "genre9"
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(31,11): error C2065: genre9: необъявленный идентификатор
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(32,5): error C2065: Genre: необъявленный идентификатор
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(32,11): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "genre10"
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(32,11): error C2065: genre10: необъявленный идентификатор
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(33,22): error C2065: genre1: необъявленный идентификатор
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(33,47): error C2065: genre2: необъявленный идентификатор
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(33,72): error C2065: genre3: необъявленный идентификатор
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(33,97): error C2065: genre4: необъявленный идентификатор
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(33,122): error C2065: genre5: необъявленный идентификатор
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(34,22): error C2065: genre6: необъявленный идентификатор
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(34,47): error C2065: genre7: необъявленный идентификатор
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(34,72): error C2065: genre8: необъявленный идентификатор
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(34,97): error C2065: genre9: необъявленный идентификатор
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(34,122): error C2065: genre10: необъявленный идентификатор
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(36,5): error C2065: Audience: необъявленный идентификатор
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(36,14): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "audience1"
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(36,34): error C2065: genre2: необъявленный идентификатор
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(36,14): error C3861: audience1: идентификатор не найден
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(37,5): error C2065: Audience: необъявленный идентификатор
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(37,14): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "audience2"
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(37,14): error C2065: audience2: необъявленный идентификатор
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(37,35): error C2065: genre6: необъявленный идентификатор
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(38,5): error C2065: Audience: необъявленный идентификатор
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(38,14): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "audience3"
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(38,14): error C2065: audience3: необъявленный идентификатор
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(38,36): error C2065: genre3: необъявленный идентификатор
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(39,5): error C2065: Audience: необъявленный идентификатор
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(39,14): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "audience4"
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(39,14): error C2065: audience4: необъявленный идентификатор
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(39,36): error C2065: genre5: необъявленный идентификатор
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(40,25): error C2065: audience1: необъявленный идентификатор
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(40,56): error C2065: audience2: необъявленный идентификатор
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(40,87): error C2065: audience3: необъявленный идентификатор
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(40,119): error C2065: audience4: необъявленный идентификатор
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(42,5): error C2065: Actor: необъявленный идентификатор
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(42,11): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "actor1"
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(42,11): error C2065: actor1: необъявленный идентификатор
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(42,66): error C2065: genre4: необъявленный идентификатор
+C:\Users\izabe\source\repos\Pract6Plus\Pract6Plus.cpp(42,72): fatal  error C1003: число ошибок превышает 100; остановка компиляции
